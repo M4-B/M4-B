@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M4-B.
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning Java, SQL, HTML, and CSS.
+- 🌱 I’m currently learning "Responsive Web Design Certificate" - freecodecamp.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me? I don't even know.
 
